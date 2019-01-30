@@ -1,0 +1,12 @@
+@import '../../scss/variables';
+
+.catalog{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  @media (max-width: 1040px){
+    justify-content: center;
+  }
+}
