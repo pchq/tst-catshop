@@ -1,15 +1,15 @@
 {
-  "main.css": "/tst-catshop/static/css/main.643c44f5.chunk.css",
-  "main.js": "/tst-catshop/static/js/main.0cb68ecc.chunk.js",
-  "main.js.map": "/tst-catshop/static/js/main.0cb68ecc.chunk.js.map",
+  "main.css": "/tst-catshop/static/css/main.d845db5c.chunk.css",
+  "main.js": "/tst-catshop/static/js/main.a8ca07ba.chunk.js",
+  "main.js.map": "/tst-catshop/static/js/main.a8ca07ba.chunk.js.map",
   "static/js/1.dffad4e7.chunk.js": "/tst-catshop/static/js/1.dffad4e7.chunk.js",
   "static/js/1.dffad4e7.chunk.js.map": "/tst-catshop/static/js/1.dffad4e7.chunk.js.map",
   "runtime~main.js": "/tst-catshop/static/js/runtime~main.0e7543d9.js",
   "runtime~main.js.map": "/tst-catshop/static/js/runtime~main.0e7543d9.js.map",
-  "static/css/main.643c44f5.chunk.css.map": "/tst-catshop/static/css/main.643c44f5.chunk.css.map",
+  "static/css/main.d845db5c.chunk.css.map": "/tst-catshop/static/css/main.d845db5c.chunk.css.map",
   "static/media/styles.scss": "/tst-catshop/static/media/Exo2.0-Thin.1913eeb8.woff",
   "static/media/product.scss": "/tst-catshop/static/media/kat.aac87247.png",
   "index.html": "/tst-catshop/index.html",
-  "precache-manifest.9d60fcf495ea4e9f55314bf81b38ed73.js": "/tst-catshop/precache-manifest.9d60fcf495ea4e9f55314bf81b38ed73.js",
+  "precache-manifest.2e3b30cf36f64b1ba0bd64855eefdc82.js": "/tst-catshop/precache-manifest.2e3b30cf36f64b1ba0bd64855eefdc82.js",
   "service-worker.js": "/tst-catshop/service-worker.js"
 }

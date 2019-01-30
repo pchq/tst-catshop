@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/tst-catshop/static/js/runtime~main.0e7543d9.js"
   },
   {
-    "revision": "0cb68ecc0a34c4a298f7",
-    "url": "/tst-catshop/static/js/main.0cb68ecc.chunk.js"
+    "revision": "a8ca07bafafbcdbae584",
+    "url": "/tst-catshop/static/js/main.a8ca07ba.chunk.js"
   },
   {
     "revision": "dffad4e782046226678e",
     "url": "/tst-catshop/static/js/1.dffad4e7.chunk.js"
   },
   {
-    "revision": "0cb68ecc0a34c4a298f7",
-    "url": "/tst-catshop/static/css/main.643c44f5.chunk.css"
+    "revision": "a8ca07bafafbcdbae584",
+    "url": "/tst-catshop/static/css/main.d845db5c.chunk.css"
   },
   {
-    "revision": "fbee085f9c17ea92dc9eb16a6288a0d2",
+    "revision": "d0baf16196326234c5ce6e37cf8490a7",
     "url": "/tst-catshop/index.html"
   }
 ];
