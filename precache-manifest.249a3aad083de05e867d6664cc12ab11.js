@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/tst-catshop/static/css/main.d845db5c.chunk.css"
   },
   {
-    "revision": "d0baf16196326234c5ce6e37cf8490a7",
+    "revision": "95820be5229b1f8111e25e9f4fbcd1f4",
     "url": "/tst-catshop/index.html"
   }
 ];
